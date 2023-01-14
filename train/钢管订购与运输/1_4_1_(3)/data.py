@@ -1,4 +1,4 @@
-with open('临时','r+') as f:
+with open('临时', 'r+') as f:
     for line in f:
         line = line.replace('\'','')
         line = line.replace('dtype=object','')

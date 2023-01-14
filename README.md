@@ -17,3 +17,7 @@
 主要完成题目一中的最低运输费用问题，使用Floyd算法求解问题
 ### 1.4
 完成题目三中的最低运费问题的相关问题
+### 1.7
+学习$Pandas$和$Matplotlib$的使用
+* Pandas:【《2023年最新Python数据分析全套教程入门到实战》（pandas+numpy）整整100道练习题！！】 https://www.bilibili.com/video/BV1M8411n7Tk/?p=12&share_source=copy_web&vd_source=06503cc8285f468251f7ebe06f8e75de
+* Matplotlib:http://c.biancheng.net/matplotlib/
